@@ -1,5 +1,7 @@
 # React Native Photo Browser
 
+*A fork from the work of Halil Bilir (https://github.com/halilb/react-native-photo-browser), enhances the gallery he had to support multiple types of media, and uses a custom component ([PhotoView](https://github.com/alwx/react-native-photo-view)) to render the full screen display of pictures, which allows zooming.*
+
 A full screen image gallery with captions, selections and grid view support for react-native. Layout and API design are inspired by great [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) library.
 
 The component has both iOS and Android support.

@@ -17,14 +17,15 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halilb/react-native-photo-browser.git"
+    "url": "git+https://github.com/camlahoud/react-native-photo-browser.git"
   },
   "bugs": {
-    "url": "https://github.com/halilb/react-native-photo-browser/issues"
+    "url": "https://github.com/camlahoud/react-native-photo-browser/issues"
   },
-  "author": "Halil Bilir <hbilir@gmail.com>",
-  "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
+  "author": "Camille Lahoud <camlahoud@gmail.com>",
+  "homepage": "https://github.com/camlahoud/react-native-photo-browser#readme",
   "dependencies": {
+    "react-native-photo-view": "^1.2.0",
     "react-native-progress": "^3.0.0"
   }
 }
