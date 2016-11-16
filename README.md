@@ -13,7 +13,9 @@ The component has both iOS and Android support.
 
 ### Installation 
 ```npm install react-native-photo-browser --save```
+
 After installation we need to link the PhotoView library:
+
 ```react-native link react-native-photo-view```
 
 ### Properties
