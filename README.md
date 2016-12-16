@@ -17,6 +17,10 @@ npm install https://github.com/camlahoud/react-native-photo-browser --save
 react-native link
 ```
 
+After installation we need to link the PhotoView library:
+
+```react-native link react-native-photo-view```
+
 ### Properties
 
 | Prop | Type | Description | Default |
