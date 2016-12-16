@@ -12,7 +12,10 @@ The component has both iOS and Android support.
 ![](screenshots/screenshot-2.png)
 
 ### Installation 
-```npm install react-native-photo-browser --save```
+```
+npm install https://github.com/camlahoud/react-native-photo-browser --save
+react-native link
+```
 
 ### Properties
 
@@ -40,6 +43,8 @@ const media = {
   photo: '', // a remote photo or local media url
   caption: '', // photo caption to be displayed
   selected: true, // set the photo selected initially(default is false)
+  path: '', //For other types of media (i.e. video), the path to the actual file
+  type: '', //The mime type if anything other than photo
 };
 ```
 
