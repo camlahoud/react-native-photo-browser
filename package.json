@@ -25,7 +25,7 @@
   "author": "Camille Lahoud <camlahoud@gmail.com>",
   "homepage": "https://github.com/camlahoud/react-native-photo-browser#readme",
   "dependencies": {
-    "react-native-photo-view": "^1.2.0",
+    "react-native-photo-view": "1.2.0",
     "react-native-progress": "^3.0.0",
     "react-native-video": "*",
     "react-native-file-opener": "*"
